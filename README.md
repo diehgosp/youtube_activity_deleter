@@ -3,6 +3,15 @@
 Deleta todos os seus comentários no You Tube
 
 ---
+##Uso
+
+- Baixe o aplicativo em https://tinyurl.com/ytdeleter
+- Duplo clique em deleter.exe
+- Clique em Login e entre em sua conta, salvando o login.
+- Clique em Deletar Atividade e aguarde o processo concluir.
+
+
+---
 
 ## Recursos
 - Login manual no seu perfil do Google (reutiliza o mesmo perfil depois).
